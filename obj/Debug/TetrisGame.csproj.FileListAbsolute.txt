@@ -1,0 +1,9 @@
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame.csproj.AssemblyReference.cache
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\MainWindow.baml
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\MainWindow.g.cs
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\App.g.cs
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame_MarkupCompile.cache
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame.g.resources
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame.Properties.Resources.resources
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame.csproj.GenerateResource.cache
+C:\Users\Arina\source\repos\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
